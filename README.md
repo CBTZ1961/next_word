@@ -1,1 +1,1 @@
-# next_word
+In this branch you find the file for building n gram models and combining them to a model, which can be used by an nlp application. app is such an application, where a backoff model is implemented to determine the next word
